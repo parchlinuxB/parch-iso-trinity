@@ -18,7 +18,6 @@ jobs:
       - name: Add Trinity keys
         run: |
           pacman-key --recv-keys 8685AD8B
-          pacman-key --refresh-keys
       - name: Install Packages via Pacman
         run: |
           pacman -Suy --noconfirm --noprogressbar
