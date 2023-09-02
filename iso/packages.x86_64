@@ -40,8 +40,6 @@ grub
 hdparm
 hyperv
 intel-ucode
-#ipw2100-fw
-#ipw2200-fw
 irssi
 iw
 iwd
@@ -93,7 +91,6 @@ python
 python-psutil
 python-systemd
 refind
-#reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -137,16 +134,18 @@ gvfs
 gvfs-mtp
 networkmanager
 android-file-transfer
+sddm
+parch-grub
 
 #Desktop
+tde-meta
 
 #systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-ttf-ms-fonts
-parch-firefox-config
+ttf-dejavu
 firefox
 
 #parchlinuxstuff
@@ -157,3 +156,4 @@ paru
 parch-emoji-ios
 parch-branding
 parch-pacman
+parch-tde

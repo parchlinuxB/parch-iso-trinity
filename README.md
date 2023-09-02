@@ -1,3 +1,2 @@
-# Parch Linux iso template
+# Parch Linux Trinity edition
 
-## Use this template for making releases
