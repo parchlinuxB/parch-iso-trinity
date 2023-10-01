@@ -138,7 +138,8 @@ sddm
 parch-grub
 
 #Desktop
-tde-meta
+tde-tdebase
+parch-welcome
 
 #systemutils
 btop
