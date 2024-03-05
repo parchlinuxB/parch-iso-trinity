@@ -144,10 +144,9 @@ parch-welcome
 #systemutils
 btop
 xdg-user-dirs
-packagekit-qt5
 neofetch-git
-ttf-dejavu
 firefox
+vazirmatn-fonts
 
 #parchlinuxstuff
 calamares
